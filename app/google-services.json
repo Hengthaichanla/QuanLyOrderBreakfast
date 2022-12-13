@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383808100493",
+    "project_id": "orderbreakfast-55ec0",
+    "storage_bucket": "orderbreakfast-55ec0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383808100493:android:43c47a466c90d065342ac4",
+        "android_client_info": {
+          "package_name": "udck.rendom.orderbreakfast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383808100493-dn7ldkpvnl2dpdqjev21vvnks2b4uvi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfu-hguaMKZCaXKywaVJyoi9rt6_w9MPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383808100493-dn7ldkpvnl2dpdqjev21vvnks2b4uvi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
